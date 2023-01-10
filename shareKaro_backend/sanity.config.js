@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'shareKaro_jatin',
+  title: 'shareKaro_backend',
 
-  projectId: 'pfo90xii',
+  projectId: 'thzcerqp',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
